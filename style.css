@@ -1,0 +1,32 @@
+.max-bobble {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    width: 600px;
+    height: 600px;
+    border-radius: 100%;
+    border: 1px solid red;
+}
+
+.bobble {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #DDF1E4;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+
+.text-how-start {
+    position: absolute;
+    left: 50%;
+    top: 44%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    z-index: 5;
+    color: black;
+}
